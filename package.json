@@ -25,8 +25,8 @@
     "db:migrate": "turbo  db:migrate"
   },
   "devDependencies": {
-    "@biomejs/biome": "^2.4.7",
-    "turbo": "^2.8.17"
+    "@biomejs/biome": "^2.4.10",
+    "turbo": "^2.9.5"
   },
   "packageManager": "pnpm@10.18.0",
   "pnpm": {
